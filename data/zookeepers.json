@@ -65,6 +65,12 @@
       "age": 33,
       "favoriteAnimal": "Elephant",
       "id": "10"
+    },
+    {
+      "name": "Arthur",
+      "age": 21,
+      "favoriteAnimal": "liger",
+      "id": "11"
     }
   ]
 }

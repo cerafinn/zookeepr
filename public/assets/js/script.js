@@ -9,7 +9,6 @@ const handleZookeeperFormSubmit = event => {
   const favoriteAnimal = $zookeeperForm.querySelector('[name="favorite-animal"]').value;
 
   const zookeeperObj = { name, age, favoriteAnimal };
-  console.log(zookeeperObj);
   fetch('api/zookeepers', {
     method: 'POST',
     headers: {
