@@ -127,6 +127,16 @@
         "excitable"
       ],
       "id": "12"
+    },
+    {
+      "name": "Martin",
+      "species": "Hyena",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
