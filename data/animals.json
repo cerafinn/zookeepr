@@ -137,6 +137,15 @@
         "zany"
       ],
       "id": "13"
+    },
+    {
+      "name": "Martin",
+      "species": "Hyena",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
